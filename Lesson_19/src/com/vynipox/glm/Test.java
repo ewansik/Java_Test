@@ -1,8 +1,6 @@
 package com.vynipox.glm;
 
-/**
- * Created by USER on 21.10.2015.
- */
+
 public class Test {
 
     public int summ(int a, int b) {
@@ -16,6 +14,7 @@ public class Test {
 
         System.out.println("New change");
         System.out.close();
+        System.out.print("Test");
 
     }
 
