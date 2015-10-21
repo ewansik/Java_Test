@@ -15,6 +15,7 @@ public class Test {
     public void test() {
 
         System.out.println("New change");
+        System.out.close();
 
     }
 
