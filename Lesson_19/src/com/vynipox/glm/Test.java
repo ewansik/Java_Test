@@ -1,21 +1,6 @@
 package com.vynipox.glm;
 
-<<<<<<< HEAD
-public class Test {
-	
-	public int summ(int a, int b)
-	{
-		return a+b;
-	}
-	
-	public void test()
-	{
-		
-	}
-=======
-/**
- * Created by USER on 21.10.2015.
- */
+
 public class Test {
 
     public int summ(int a, int b) {
@@ -31,5 +16,4 @@ public class Test {
 
     }
 
->>>>>>> refs/remotes/origin/TestRudenkov
 }
