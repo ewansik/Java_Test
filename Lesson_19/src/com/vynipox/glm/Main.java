@@ -15,5 +15,6 @@ public class Main {
 		inputText = scanner.nextLine();
 		
 		System.out.print(manager.replaceText(inputText));
+		scanner.close();
 	}
 }
