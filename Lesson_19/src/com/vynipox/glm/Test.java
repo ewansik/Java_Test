@@ -14,6 +14,7 @@ public class Test {
 
         System.out.println("New change");
         System.out.close();
+        System.out.print("Test");
 
     }
 
